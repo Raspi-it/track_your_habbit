@@ -1,6 +1,6 @@
 # track_your_habbit
 
-A new Flutter project.
+A new Flutter project. This project is a simple habbit tracker to support you with your daily/weekly/yearly goals.
 
 ## Getting Started
 
