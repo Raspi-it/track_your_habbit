@@ -6,7 +6,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   static const String _title = 'Flutter Code Sample';
 
-  ///Penis ist lustig
+  ///Penis ist lustig NICHT!
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
